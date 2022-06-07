@@ -1,1 +1,1 @@
-# Boss-Mode-Mindset
+This was a product page project on freecodecamp. I looked at the example page they had on display and went off on my own to replicate in my own image. I used a blog site my brother was making as a focal point, turning it into a coaching/transformation subscription service. Site is not mobile friendly yet. 
